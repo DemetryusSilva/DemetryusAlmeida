@@ -1,4 +1,4 @@
-<h1>Console.log("Hello, World! I'm Demetryus") :)</h1>
+<h1>Print("Hello, World! I'm Demetryus") :)</h1>
 <ul>
   <li>I’m currently working on Full Stack</li>
 </ul>
